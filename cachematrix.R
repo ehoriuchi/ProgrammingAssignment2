@@ -1,5 +1,5 @@
 ## The get function returns vector x stored in the main function.
-## The set function changes the stored in the main function.
+## The set function changes the vector stored in the main function.
 ## The setinverse is assigned the solve function where the calculation is stored in m.
 ## The getinverse is assigned the value of m
 
